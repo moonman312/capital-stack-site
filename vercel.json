@@ -8,10 +8,10 @@
       "has": [
         {
           "type": "host",
-          "value": "myhoteldebt.com"
+          "value": "hotelcapitalstack.com"
         }
       ],
-      "destination": "https://hotelcapitalstack.com/$1",
+      "destination": "https://myhoteldebt.com/$1",
       "permanent": true
     },
     {
@@ -22,7 +22,7 @@
           "value": "hotel-debt.com"
         }
       ],
-      "destination": "https://hotelcapitalstack.com/$1",
+      "destination": "https://myhoteldebt.com/$1",
       "permanent": true
     },
     {
@@ -33,7 +33,7 @@
           "value": "myhotelloan.com"
         }
       ],
-      "destination": "https://hotelcapitalstack.com/$1",
+      "destination": "https://myhoteldebt.com/$1",
       "permanent": true
     }
   ],
